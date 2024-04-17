@@ -94,8 +94,7 @@ public Spherical spherical(float x, float y, float z){
   return new Spherical(r, theta, phi);
  }
        
-
-
+       
 public void draw(){
   background(0);
   
